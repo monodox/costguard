@@ -1,0 +1,19 @@
+# Snowflake
+*.log
+.snowflake/
+connections.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

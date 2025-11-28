@@ -1,0 +1,11 @@
+version:
+  name: V1_0
+  label: "Version 1.0"
+  comment: "CostGuard FinOps Analysis for Snowflake"
+
+artifacts:
+  setup_script: scripts/setup.sql
+
+configuration:
+  log_level: INFO
+  trace_level: OFF
